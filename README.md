@@ -12,16 +12,16 @@ B.E. Computer Science and Engineering
 Kerala Samajam English Medium High School, Mangalore (2012-2013)
 
 ### Work experience
-Job Title: Java Developer
-Current Company: Infosys
+Job Title: Java Developer, 
+Current Company: Infosys, 
 Duration: 09/2021 - 10/2022
 - Developed and maintained software applications using Java and related technologies.
 - Collaborated with cross-functional teams to gather requirements and design solutions.
 - Written clean, efficient and well documented codes.
 - Participated in code reviews and provided feedback to improve code quality.
 
-Job Title: Frontend Developer
-Current Company: Infosys
+Job Title: Frontend Developer, 
+Current Company: Infosys, 
 Duration: 10/2022 - Present
 Actively participated in Agile development methodologies.
 - Developed a e-commerce website for a sports merchandise corporation.
