@@ -8,8 +8,8 @@ B.E. Computer Science and Engineering
 - St. Joseph Engineering College, Mangalore (2015-2019)
 12th PUC
 - St. Agnes Pre-University College, Mangalore (2014-2015)
-- 10th
-Kerala Samajam English Medium High School, Mangalore (2012-2013)
+10th
+- Kerala Samajam English Medium High School, Mangalore (2012-2013)
 
 ### Work experience
 Job Title: Java Developer, 
@@ -23,7 +23,7 @@ Duration: 09/2021 - 10/2022
 Job Title: Frontend Developer, 
 Current Company: Infosys, 
 Duration: 10/2022 - Present
-Actively participated in Agile development methodologies.
+- Actively participated in Agile development methodologies.
 - Developed a e-commerce website for a sports merchandise corporation.
 - Implemented functionalities such as browsing categories, adding items to cart and checkout.
 - Implemented the front end UI/UX provided by design team, integrated product catalogue and shopping cart functionality using React.js
