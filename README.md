@@ -1,5 +1,3 @@
-# Divya K
-
 ### Objective
 To acquire sound professional knowledge, expertise and creativity through sincerity and hard work and to apply these skills to meet the challenges and needs of the organization for which I am working so as to enable its upliftment, along with self development.
 
