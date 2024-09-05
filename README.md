@@ -12,24 +12,21 @@ B.E. Computer Science and Engineering
 - Kerala Samajam English Medium High School, Mangalore (2012-2013)
 
 ### Work experience
-Job Title: Java Developer, 
+Job Title: SeniorSystemsEngineer, 
 Current Company: Infosys, 
-Duration: 09/2021 - 10/2022
-- Developed and maintained software applications using Java and related technologies.
-- Collaborated with cross-functional teams to gather requirements and design solutions.
-- Written clean, efficient and well documented codes.
-- Participated in code reviews and provided feedback to improve code quality.
+Duration: 09/2021 - Current 
 
-Job Title: Frontend Developer, 
-Current Company: Infosys, 
-Duration: 10/2022 - Present
-- Actively participated in Agile development methodologies.
-- Developed a e-commerce website for a sports merchandise corporation.
-- Implemented functionalities such as browsing categories, adding items to cart and checkout.
-- Implemented the front end UI/UX provided by design team, integrated product catalogue and shopping cart functionality using React.js
-- Ensure cross browser compatibility and responsiveness across different devices and screen sizes.
+- Successfully resolved incidents and tickets within the specified time frame, providing critical support for logistics and warehousing clients with minimal disruption.
+- Played a pivotal role in unit and regression testing, improving client processing efficiency and accuracy by identifying and addressing quality bugs.
+- Conducted problem analysis and provided insights for system and process improvements, enhancing functionality and streamlining workflows.
+- Collaborated on the design and implementation of new requirements, ensuring alignment with client needs and business objectives.
+- Managed change tickets and utilized ServiceNow for L1 and L2 support, efficiently handling client issues and requests.
 
 ### Skills
+- AS400 Legacy Database Management and SQL.
+- ServiceNow Administration and Support.
+- JIRA Ticketing System Management
+- Confluence Documentation and Collaboration Platform Utilization.
 - Proficient in Java programming language, HTML, CSS and Java Script.
 - Experience with Frontend frameworks (React).
 - Strong understanding of Object Oriented Programming principles.
