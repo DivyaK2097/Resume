@@ -3,13 +3,13 @@ To acquire sound professional knowledge, expertise and creativity through sincer
 
 ### Education
 B.E. Computer Science and Engineering
-- St. Joseph Engineering College, Mangalore (2015-2019)
+- St. Joseph Engineering College (2015-2019)
   
 12th PUC
-- St. Agnes Pre-University College, Mangalore (2014-2015)
+- St. Agnes Pre-University College (2014-2015)
   
 10th
-- Kerala Samajam English Medium High School, Mangalore (2012-2013)
+- Kerala Samajam English Medium High School (2012-2013)
 
 ### Work experience
 Job Title: SeniorSystemsEngineer, 
